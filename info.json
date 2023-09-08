@@ -1,0 +1,7 @@
+{
+    "version": "0.0.0",
+    "type": "LuaModule",
+    "author": "",
+    "description": "",
+    "requiredVersion" : "9.5"
+    }
